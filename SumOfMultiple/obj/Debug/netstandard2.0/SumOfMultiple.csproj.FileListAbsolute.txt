@@ -1,0 +1,9 @@
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.deps.json
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.dll
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.pdb
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.csprojAssemblyReference.cache
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.csproj.CoreCompileInputs.cache
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfoInputs.cache
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfo.cs
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.dll
+c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.pdb

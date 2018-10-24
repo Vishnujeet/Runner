@@ -1,0 +1,9 @@
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.deps.json
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.dll
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.pdb
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.csprojAssemblyReference.cache
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.csproj.CoreCompileInputs.cache
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfoInputs.cache
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfo.cs
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.dll
+c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.pdb
