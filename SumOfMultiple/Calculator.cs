@@ -2,8 +2,13 @@
 
 namespace SumOfMultiple
 {
-    public class SumCalculator
+    public class Calculator
     {
+        /// <summary>
+        /// Calculation to find sum of natural’s number that Multiple By 3 Or 5
+        /// </summary>
+        /// <param name="limit">10</param>
+        /// <returns>23</returns>
         public long FindSumOfNaturalsMultipleBy3Or5(int limit)
         {
             long sum = 0;

@@ -7,3 +7,12 @@ c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\Su
 c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfo.cs
 c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.dll
 c:\Users\310241978\source\repos\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.pdb
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.deps.json
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.dll
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.pdb
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.csprojResolveAssemblyReference.cache
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.csproj.CoreCompileInputs.cache
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfoInputs.cache
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfo.cs
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.dll
+D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.pdb

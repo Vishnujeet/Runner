@@ -7,3 +7,12 @@ c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0
 c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfo.cs
 c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.dll
 c:\Users\310241978\source\repos\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.pdb
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.deps.json
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.dll
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.pdb
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.csprojResolveAssemblyReference.cache
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.csproj.CoreCompileInputs.cache
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfoInputs.cache
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfo.cs
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.dll
+D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.pdb

@@ -6,6 +6,11 @@ namespace SequenceAnalysis
 {
     public class FindUppercaseFinder
     {
+        /// <summary>
+        /// find the upper case letter as per the pattern
+        /// </summary>
+        /// <param name="inputText">This IS a STRING</param>
+        /// <returns>GIINRSST</returns>
         public string FindUppercaseLettersAsPerPattern(string inputText)
         {
             var pattern = @"[A-Z]";
