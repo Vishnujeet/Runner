@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Runner-20181024T081842Z-001\\Runner\\SequenceAnalysis\\SequenceAnalysis.csproj",
+      "projectUniqueName": "D:\\GitHub\\Runner\\SequenceAnalysis\\SequenceAnalysis.csproj",
       "projectName": "SequenceAnalysis",
-      "projectPath": "D:\\Runner-20181024T081842Z-001\\Runner\\SequenceAnalysis\\SequenceAnalysis.csproj",
+      "projectPath": "D:\\GitHub\\Runner\\SequenceAnalysis\\SequenceAnalysis.csproj",
       "packagesPath": "C:\\Users\\vishn\\.nuget\\packages\\",
-      "outputPath": "D:\\Runner-20181024T081842Z-001\\Runner\\SequenceAnalysis\\obj\\",
+      "outputPath": "D:\\GitHub\\Runner\\SequenceAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

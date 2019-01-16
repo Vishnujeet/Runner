@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Runner-20181024T081842Z-001\\Runner\\SumOfMultiple\\SumOfMultiple.csproj",
+      "projectUniqueName": "D:\\GitHub\\Runner\\SumOfMultiple\\SumOfMultiple.csproj",
       "projectName": "SumOfMultiple",
-      "projectPath": "D:\\Runner-20181024T081842Z-001\\Runner\\SumOfMultiple\\SumOfMultiple.csproj",
+      "projectPath": "D:\\GitHub\\Runner\\SumOfMultiple\\SumOfMultiple.csproj",
       "packagesPath": "C:\\Users\\vishn\\.nuget\\packages\\",
-      "outputPath": "D:\\Runner-20181024T081842Z-001\\Runner\\SumOfMultiple\\obj\\",
+      "outputPath": "D:\\GitHub\\Runner\\SumOfMultiple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

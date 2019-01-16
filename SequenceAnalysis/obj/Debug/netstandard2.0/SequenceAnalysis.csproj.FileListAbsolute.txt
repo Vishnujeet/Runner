@@ -16,3 +16,12 @@ D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\
 D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfo.cs
 D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.dll
 D:\Runner-20181024T081842Z-001\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.pdb
+D:\GitHub\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.deps.json
+D:\GitHub\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.dll
+D:\GitHub\Runner\SequenceAnalysis\bin\Debug\netstandard2.0\SequenceAnalysis.pdb
+D:\GitHub\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.csprojResolveAssemblyReference.cache
+D:\GitHub\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.csproj.CoreCompileInputs.cache
+D:\GitHub\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfoInputs.cache
+D:\GitHub\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.AssemblyInfo.cs
+D:\GitHub\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.dll
+D:\GitHub\Runner\SequenceAnalysis\obj\Debug\netstandard2.0\SequenceAnalysis.pdb

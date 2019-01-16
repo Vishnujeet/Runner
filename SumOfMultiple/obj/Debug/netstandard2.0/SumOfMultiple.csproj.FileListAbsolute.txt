@@ -16,3 +16,12 @@ D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\Sum
 D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfo.cs
 D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.dll
 D:\Runner-20181024T081842Z-001\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.pdb
+D:\GitHub\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.deps.json
+D:\GitHub\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.dll
+D:\GitHub\Runner\SumOfMultiple\bin\Debug\netstandard2.0\SumOfMultiple.pdb
+D:\GitHub\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.csprojResolveAssemblyReference.cache
+D:\GitHub\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.csproj.CoreCompileInputs.cache
+D:\GitHub\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfoInputs.cache
+D:\GitHub\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.AssemblyInfo.cs
+D:\GitHub\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.dll
+D:\GitHub\Runner\SumOfMultiple\obj\Debug\netstandard2.0\SumOfMultiple.pdb
